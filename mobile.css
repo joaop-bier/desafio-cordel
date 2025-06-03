@@ -1,2 +1,9 @@
 @media(max-width: 460px){
+    header#fundo-header{
+        padding: 3em;
+    }
+
+    h1{
+        font-size: 4em;
+    }
 }
